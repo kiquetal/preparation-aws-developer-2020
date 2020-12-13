@@ -5,7 +5,7 @@
 
 #### Book
 
-	AWS Certified Developer Associate DVA-C01
+	AWS Certified Developer Associate DVA-C01 - Marko Sluga
 
 
 #### Exams
